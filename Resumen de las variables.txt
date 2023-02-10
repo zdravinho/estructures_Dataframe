@@ -1,0 +1,5 @@
+El conjunto de datos incluye 200,000 entradas y 30 columnas. La primera columna "Unnamed: 0" es simplemente un identificador numérico, mientras que las otras 29 columnas incluyen información sobre vuelos realizados en 2008.
+
+Algunas de las columnas más importantes incluyen el año (Year), el mes (Month), el día del mes (DayofMonth), el día de la semana (DayOfWeek), la hora de salida (DepTime) y la hora de llegada (ArrTime), el número de vuelo (FlightNum), la aerolínea (UniqueCarrier) y la distancia (Distance).
+
+Hay algunas columnas con valores no nulos, como la hora de llegada (ArrTime) que tiene 199,281 valores de un total de 200,000.
